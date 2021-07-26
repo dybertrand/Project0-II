@@ -6,31 +6,18 @@
     </types>
     <types>
         <members>*</members>
-        <name>ApexComponent</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>ApexPage</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>ApexTestSuite</name>
-    </types>
-    <types>
-        <members>*</members>
         <name>ApexTrigger</name>
     </types>
     <types>
-        <members>*</members>
-        <name>AuraDefinitionBundle</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>LightningComponentBundle</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>StaticResource</name>
+        <members>Inventory__c</members>
+        <members>Customer__c</members>
+        <members>Customer_Order__c</members>
+        <members>Expense_Items__c</members>
+        <members>Store__c</members>
+        <members>Supply__c</members>
+        <members>Supply_Order__c</members>
+        <members>Vendor__c</members>
+        <name>CustomObject</name>
     </types>
     <version>52.0</version>
 </Package>

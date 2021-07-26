@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Modern</fullName>
+    <active>true</active>
+    <label>Modern</label>
+    <picklistValues>
+        <picklist>Brand__c</picklist>
+        <values>
+            <fullName>Borough</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Field</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Finex</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Lodge</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Smithey Ironware Co%2E</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Stargazer</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+</RecordType>

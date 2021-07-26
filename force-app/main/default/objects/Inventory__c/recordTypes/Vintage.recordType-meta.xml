@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Vintage</fullName>
+    <active>true</active>
+    <label>Vintage</label>
+    <picklistValues>
+        <picklist>Brand__c</picklist>
+        <values>
+            <fullName>Atlanta Stove Works</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Favourite</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Griswold</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Victor</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Vollrath</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Wagner</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+</RecordType>
